@@ -1,0 +1,18 @@
+/* Universal */
+* {
+    background-color: #fffff0;
+}
+
+
+/* Index */
+
+
+/* Recipe Pages */
+.title {
+    text-align: center;
+}
+
+#recipe-picture {
+    display: block;
+    margin: auto;
+}
